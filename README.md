@@ -1,4 +1,6 @@
 # RUL_Jet_Engine
+![Uploading image.png…]()
+
 Data Set: FD001
 Train trjectories: 100 Test trajectories: 100 Conditions: ONE (Sea Level) Fault Modes: ONE (HPC Degradation)
 
