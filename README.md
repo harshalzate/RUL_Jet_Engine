@@ -1,5 +1,6 @@
 # RUL_Jet_Engine
-![Uploading image.png…]()
+![image](https://github.com/harshalzate/RUL_Jet_Engine/assets/81850231/29f7b4f8-ef73-4bf7-95cc-b9ef55ec88b7)
+
 
 Data Set: FD001
 Train trjectories: 100 Test trajectories: 100 Conditions: ONE (Sea Level) Fault Modes: ONE (HPC Degradation)
